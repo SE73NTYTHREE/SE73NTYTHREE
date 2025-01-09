@@ -3,7 +3,7 @@
   width="500" 
   height="760">
 
- ⠀⠀⠀⠀ ⠀⠀⠀⠀ <img src="https://file.garden/Zt3AK4Hu3nEBt7QD/rentry.png" alt="https://rentry.co/goshitsu"
+<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/rentry.png" alt="https://rentry.co/goshitsu"
   width="240" 
   height="120">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/ata.png" alt="https://angels.atabook.org/"
   width="100" 
