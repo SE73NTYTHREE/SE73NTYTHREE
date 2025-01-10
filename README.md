@@ -3,12 +3,12 @@
   width="500" 
   height="760">
 
-<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/rentry.png" alt="https://rentry.co/goshitsu"
+<a href="https://rentry.co/goshitsu"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/rentry.png" alt=""
   width="220" 
-  height="100">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/ata.png" alt="https://angels.atabook.org/"
+  height="100"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://angels.atabook.org/"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/ata.png" alt=""
   width="90" 
-  height="110"> ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/directory.png" alt="https://rentry.co/hanguk"
+  height="110"></a> ⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://rentry.co/hanguk"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/directory.png" alt=""
   width="260" 
-  height="90">
+  height="90"></a>
   </p>
 
