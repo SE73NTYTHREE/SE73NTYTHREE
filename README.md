@@ -1,4 +1,5 @@
 <p align="center">
+  kms why are my images not working ok uhm bare w me
 <img src="https://file.garden/Zt3AK4Hu3nEBt7QD/blur_edgeszeh.png" alt=""
 >
 
