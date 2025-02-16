@@ -1,14 +1,5 @@
 <p align="center">
-  kms why are my images not working ok uhm bare w me
-<img src="https://file.garden/Zt3AK4Hu3nEBt7QD/blur_edgeszeh.png" alt=""
->
-
-⠀⠀⠀⠀⠀<a href="https://rentry.co/laxn"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/rentrytrru.png" alt=""
-  width="190" 
-  height="75"></a>⠀⠀⠀⠀⠀<a href="https://reze.atabook.org/"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/ataboookdj.png" alt=""
-  width="215" 
-  height="90"></a> ⠀⠀⠀⠀⠀<a href="https://rentry.co/hanguk"><img src="https://file.garden/Zt3AK4Hu3nEBt7QD/directoryryru.png" alt=""
-  width="260" 
-  height="80"></a>
-  </p>
+  I HAT EU FILEGARDENB :(
+<p align="center">
+<a href="https://rentry.co/hanguk">links</a>
 
